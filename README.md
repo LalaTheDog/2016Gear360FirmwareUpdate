@@ -13,3 +13,5 @@ The upgrade will run immediately after power-on.  A progress bar will appear on 
 I have no idea if it checks the power level before starting (although the dev mode does show the power%), so I'd fully charge it before doing this.
 
 Delete the files from the SD card after upgrading.
+
+The handheld controller for the Gear VR Headset will now work as a remote shutter with the AQK firmware.  Either the trigger or pressing down on the touchpad will work.  Pair the controller by entering the remote control mode on the Gear 360, and then pressing and holding down the Home button on the controller.
